@@ -1,0 +1,17 @@
+{
+  "name": "AppKBRSO",
+  "short_name": "KBRSO",
+  "description": "Aplikacja AppKBRSO — wersja webowa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    }
+  ]
+}
